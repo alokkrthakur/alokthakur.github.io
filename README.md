@@ -1,5 +1,5 @@
 # alokthakur.github.io
-logo: /assets/
+logo: /assets/PXL_20250410_145612356.jpg
 
 ## Projects
 
