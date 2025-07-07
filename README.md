@@ -1,6 +1,6 @@
 # alokthakur.github.io
 logo: /assets/PXL_20250410_145612356.jpg
-
+description: PhD Student, IIT Gandhinagar
 ## Projects
 
 ### Development of low-cost air quality monitor
