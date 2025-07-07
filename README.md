@@ -3,7 +3,7 @@
 
 ## [Projects](#Projects)
 ## [Education](#Education)
-## [Work experience](#Work experience)
+## [WorkExperience](#WorkExperience)
 
 ---
 
@@ -24,7 +24,7 @@
 •	Fundamental studies on sources, transport, transformation, and the fate of pollutants in urban indoor spaces are nearly non-existent.  
 •	Few recommendations, like proper resource allotment to IAP studies, devising regulatory guidelines, etc., to be a few initial steps for better IAP research.  
 
-Published in Environmental Science and Technology Letters [doi.org/10.1021/acs.estlett.3c00636] (https://doi.org/10.1021/acs.estlett.3c00636)
+Published in Environmental Science and Technology Letters [doi.org/10.1021/acs.estlett.3c00636](https://doi.org/10.1021/acs.estlett.3c00636)
 
 ### Insights into Low-cost PM Sensors Using Size-resolved Scattering Intensity of Cooking Aerosols in a Test House
 •	Critically reviews the research on the measurement, modeling, and mitigation (3Ms) of IAP in developed nations and India.  
@@ -32,7 +32,7 @@ Published in Environmental Science and Technology Letters [doi.org/10.1021/acs.e
 •	Fundamental studies on sources, transport, transformation, and the fate of pollutants in urban indoor spaces are nearly non-existent.  
 •	Few recommendations, like proper resource allotment to IAP studies, devising regulatory guidelines, etc., to be a few initial steps for better IAP research.  
 
-Published in Aerosol Science & Technology [doi.org/10.1080/02786826.2024.2342722] (https://doi.org/10.1080/02786826.2024.2342722)
+Published in Aerosol Science & Technology [doi.org/10.1080/02786826.2024.2342722](https://doi.org/10.1080/02786826.2024.2342722)
 
 ### Characterization of IAP in Multi-zonal Residential Apartment: Transport, Exposure, and Mitigation 
 •	Spatio-temporal monitoring in a multi-zonal residential apartment in-house low-cost air quality monitors.  
@@ -65,7 +65,7 @@ Ph.D. IIT Gandhinagar
 M.Tech. IIT Gandhinagar
 B.Tech. Uttarakhand Technical University
 
-### <a name="Work experience"></a>Work experience
+### <a name="WorkExperience"></a>WorkExperience
 JRF @ IIT Gandhinagar
 
 
