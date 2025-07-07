@@ -1,4 +1,5 @@
 # alokthakur.github.io
+logo: /assets/
 
 ## Projects
 
