@@ -1,6 +1,14 @@
 # alokthakur.github.io
 ![My Photo](assets/images/PXL_20250410_145612356.jpg)
-## Projects
+
+## [Projects](#Projects)
+## [Education](#Education)
+## [Work experience](#Work experience)
+
+---
+
+### <a name="Projects"></a>Projects
+
 
 ### Development of low-cost air quality monitor
 •	I used the Arduino set-up integrated with the low-cost sensor (LCS) Plantower PMS5003 sensor, RTC clock DS 3231, microSD card module, and ESP01 module for Wi-Fi connection.   
@@ -52,12 +60,12 @@ Submitted in ES&T Air
 •	The current works explore the possibility of using a passive method to reduce particulate exposure
 
 
-## Education
+### <a name="Education"></a>Education
 Ph.D. IIT Gandhinagar
 M.Tech. IIT Gandhinagar
 B.Tech. Uttarakhand Technical University
 
-## Work history
+### <a name="Work experience"></a>Work experience
 JRF @ IIT Gandhinagar
 
 
